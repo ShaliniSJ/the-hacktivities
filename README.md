@@ -1,3 +1,5 @@
-Team Name : The hacktivities
+Team Name : The Hacktivities
+
 Team Head : Shalini
-Team members : Shalini, padmavarshini, surya prakash, nadeem, Akash
+
+Team members : Shalini, Padmavarshini, Surya Prakash, Nadeem, Akash
