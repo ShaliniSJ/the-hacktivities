@@ -1,4 +1,5 @@
-Team Name : The hacktivities
+
+Team Name : The Hacktivities
 
 Team Head : Shalini
 
