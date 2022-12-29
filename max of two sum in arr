@@ -1,0 +1,10 @@
+#from os import *
+from sys import *
+from collections import *
+
+from typing import *
+
+def oneIteration(A: List[int]) -> int:
+    l = A.pop(A.index(max(A)))
+    return l+max(A)
+    pass
